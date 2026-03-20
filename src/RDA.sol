@@ -9,8 +9,8 @@ import { SafeERC20 } from "@openzeppelin/token/ERC20/utils/SafeERC20.sol";
 import { ReentrancyGuard } from "@openzeppelin/security/ReentrancyGuard.sol";
 
 /*
+    * @author @deoidh 
     * @title Rolling Dutch Auction (RDA) 
-    * @author Samuel JJ Gosling (@deomaius)
     * @description A dutch auction derivative with composite decay 
 */
 
